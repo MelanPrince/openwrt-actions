@@ -1,4 +1,4 @@
-name: build-openwrt
+name: build-AX9000
 
 on:
   workflow_dispatch:
