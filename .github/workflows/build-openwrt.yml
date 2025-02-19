@@ -37,6 +37,7 @@ jobs:
           - lede-common-360t7-arm64
           - lede-common-newifi_d2-mipsle_softfloat
           - immortalwrt-openclash-x86-amd64
+          - immortalwrt-openclash-AX9000
 
     steps:
       - name: Checkout
