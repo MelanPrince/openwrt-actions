@@ -4,7 +4,6 @@
 [![build-n1](https://github.com/alecthw/openwrt-actions/actions/workflows/build-n1.yml/badge.svg)](https://github.com/alecthw/openwrt-actions/actions/workflows/build-n1.yml)
 [![build-private](https://github.com/alecthw/openwrt-actions/actions/workflows/build-private.yml/badge.svg)](https://github.com/alecthw/openwrt-actions/actions/workflows/build-private.yml)
 
-每周五自动构建新版本。
 
 专注制作旁路由精简固件，稳定运行！
 
